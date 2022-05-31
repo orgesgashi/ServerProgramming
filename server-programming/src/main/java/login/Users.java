@@ -1,8 +1,6 @@
 package login;
 
 
-
-
 import java.io.Serializable;
 
 
@@ -43,7 +41,6 @@ implements Serializable {
   return email;
  }
  
- 
-    // getters and setters are not shown for brevity   
+   
      
 }
