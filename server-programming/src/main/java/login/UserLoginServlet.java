@@ -41,7 +41,7 @@ public class UserLoginServlet extends HttpServlet {
 	                
 	                
 	            } else {
-	                String message = "Invalid email/password";
+	                String message = "Invalid email or password";
 	                request.setAttribute("message", message);
 	            }
 	             
